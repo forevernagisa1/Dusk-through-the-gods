@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"SVEinheriar","characterIndex":0,"characterName":"Einheriar","classId":1,"equips":[10,1,6,3,15],"faceIndex":0,"faceName":"Actor1_face","traits":[],"initialLevel":50,"maxLevel":50,"name":"恩赫里亚","nickname":"恩赫里亚·维吉尔","note":"","profile":""},
+{"id":2,"battlerName":"SVAsia","characterIndex":0,"characterName":"Aisa","classId":2,"equips":[11,2,2,3,16],"faceIndex":0,"faceName":"Actor2_face","traits":[],"initialLevel":50,"maxLevel":50,"name":"爱莎","nickname":"爱莎·艾莉薇娅","note":"","profile":""},
+{"id":3,"battlerName":"SVYouka","characterIndex":0,"characterName":"Youka","classId":3,"equips":[12,3,5,3,0],"faceIndex":0,"faceName":"Actor3_face","traits":[],"initialLevel":50,"maxLevel":50,"name":"佑香","nickname":"千和佑香","note":"","profile":""}
+]

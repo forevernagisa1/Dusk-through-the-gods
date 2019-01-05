@@ -1,0 +1,8 @@
+图片素材：神のラプソディ
+	  RPG Maker MV 自带素材
+
+BGM：     RPG Maker MV 自带素材
+
+插件脚本：MOG系列插件      -Moghunter
+          YEP系列插件      -Yanfly Engine Plugins
+          自定义信息储存   -芯☆淡茹水

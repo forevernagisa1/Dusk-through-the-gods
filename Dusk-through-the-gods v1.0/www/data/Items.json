@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":41,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"","type":0,"variance":20},"description":"原本是精灵族的守护圣物，在精灵族覆灭之后仅有少\n量被保存了下来，具有唤醒长眠之人的作用。","effects":[{"code":22,"dataId":1,"value1":1,"value2":0},{"code":11,"dataId":0,"value1":0.5,"value2":0}],"hitType":0,"iconIndex":221,"itypeId":1,"name":"和风之祝福","note":"","occasion":1,"price":50,"repeats":1,"scope":9,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":56,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"获得40TP，[奥义]封印2回合。","effects":[{"code":21,"dataId":21,"value1":1,"value2":0}],"hitType":0,"iconIndex":177,"itypeId":1,"name":"毁灭药剂","note":"","occasion":1,"price":50,"repeats":1,"scope":11,"speed":0,"successRate":100,"tpGain":40},
+{"id":3,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"只有天神族核心首领才能拥有的水晶，拥有在天神祭坛\n之间瞬间传送的功能。","effects":[],"hitType":0,"iconIndex":303,"itypeId":2,"name":"天神水晶","note":"","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+{"id":4,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"二周目以上才可获得，可以查看成就信息。","effects":[{"code":44,"dataId":33,"value1":1,"value2":0}],"hitType":0,"iconIndex":191,"itypeId":2,"name":"成就提示","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0}
+]
